@@ -18,8 +18,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahadaat17@gmail.com)
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/WkJx4mBqQ9IAAAAd/pixel-art.gif" width="100%">
+  <img src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif" width="100%">
 </p>
+
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
