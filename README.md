@@ -18,7 +18,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahadaat17@gmail.com)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/230733742-d1aa194d-862c-49a5-af76-e610921d83e7.gif" width="500">
 </p>
 
 ## 💻 Tech Stack
