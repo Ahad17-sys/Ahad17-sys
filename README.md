@@ -18,8 +18,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahadaat17@gmail.com)
 
 <p align="center">
-  <img src="./assets/desk.gif" width="800"/>
+  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="500">
 </p>
+
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,7 +47,7 @@
 ![Google Colab](https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)logo=git&logoColor=white)
+![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
