@@ -17,7 +17,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-ahad-mohammad-ba5697334/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahadaat17@gmail.com)
 
-<img src="https://user-images.githubusercontent.com/168665187/582193575-3f4742aa-65c3-442a-ad7e-a764f6ac3ab1.gif" alt="Mario Room Git" width="100%" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/168665187/2193575-3f4742aa-65c3-442a-ad7e-a764f6ac3ab1.gif" alt="Mario Room Pixel Art" width="100%" />
+</p>
 
 ## 💻 Tech Stack
 
